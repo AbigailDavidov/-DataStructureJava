@@ -7,7 +7,7 @@ Adds an item to the structure
 Returns the value by key
 # V remove (K k)
 Removes by key
-# ()V getWarmest
+# V getWarmest()
 Returns the warmest item value
 
 #
