@@ -1,4 +1,4 @@
-# Warmest 
+# Requirements 
 Implement the following data structure in the most efficient way:
 The items in the data structure are a key-value pairs, the warmest item in the data structure is the last item that was asked for or the recent that was added.
 # void put (K key, V value)
@@ -9,9 +9,9 @@ Returns the value by key
 Removes by key
 # ()V getWarmest
 Returns the warmest item value
+# _______________________________________________________________________________________________________________________________________________________________________
 
-
-# Time Complexity
+# Time complexity of the solution
 ## put 
 We're inserting to a stack and into an hashtable- both operations is O(1).
 ## get
