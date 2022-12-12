@@ -1,6 +1,6 @@
 # Requirements 
 Implement the following data structure in the most efficient way:
-The items in the data structure are a key-value pairs, the warmest item in the data structure is the last item that was asked for or the recent that was added.
+The items in the data structure are a key-value pairs, the warmest item in the data structure is the last item that was asked for or the recent that was added. Implement in most efficient way
 # void put (K key, V value)
 Adds an item to the structure
 # V get (K k)
